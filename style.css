@@ -1,0 +1,44 @@
+section{
+    margin: 50px 0;
+}
+body{
+    font-family: 'Quicksand',sans-serif;
+}
+.infor-header h1 {
+    font-size: 100px;
+    font-weight: 700;
+}
+
+.infor-header h4 {
+    font-size: 28px;
+    font-weight: 700;
+}
+.social_media a {
+    width: 45px;
+    height: 45px;
+    background: linear-gradient(to right,#01a9ac,#01dbdf);
+    margin-right: 10px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 45px;
+    display: inline-block;
+  }
+  
+.social_media a {
+    color :#fff;
+    display: block;
+    font-size: 18px;
+  }
+  body i {
+      margin-right: 10px;
+  }
+  footer {
+      margin-top: 5rem;
+      border-top: solid;
+  }
+footer .facebook:hover {
+    color: snow;
+  }
+  .mydiv {
+      height: 100px;
+  }
